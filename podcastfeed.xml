@@ -26,6 +26,10 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<copyright>Анна Гвоздь, Кирилл Ярин</copyright>
 		<podcast:funding url="https://t.me/literaturna/491">Поддержать деньгами</podcast:funding>
 		<itunes:type>serial</itunes:type>
+		<itunes:owner>
+		  <itunes:name>Кирилл Ярин</itunes:name>
+		  <itunes:email>jarinkv@outlook.com</itunes:email>
+		</itunes:owner>
 		<item>
 			<title>Угадай персонажа №1</title>
 			<enclosure length="17705805" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20001.m4a" />
