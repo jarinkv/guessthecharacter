@@ -19,7 +19,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</itunes:category>
 		<itunes:category text="Fiction"/>
 		<itunes:explicit>false</itunes:explicit>
-		<itunes:image href="https://jarinkv.github.io/guessthecharacter/art/anna_with_book_big.jpg" />
+		<itunes:image href="https://jarinkv.github.io/guessthecharacter/art/anna_with_book_biggest.jpg" />
 		<podcast:locked>no</podcast:locked>
 		<podcast:guid>bf1036b4-0091-5307-b5dc-49aac7421523</podcast:guid>
 		<itunes:author>Литературная</itunes:author>
@@ -33,7 +33,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №1</title>
 			<enclosure length="17705805" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20001.m4a" />
-			<guid isPermaLink="False">УП1</guid>
+			<guid isPermaLink="false">УП1</guid>
 			<itunes:duration>714</itunes:duration>
 			<itunes:episode>1</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -43,7 +43,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №2</title>
 			<enclosure length="8274925" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20002.m4a" />
-			<guid isPermaLink="False">УП2</guid>
+			<guid isPermaLink="false">УП2</guid>
 			<itunes:duration>331</itunes:duration>
 			<itunes:episode>2</itunes:episode>			
 			<itunes:season>1</itunes:season>
@@ -53,7 +53,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №3</title>
 			<enclosure length="6638378" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20003.m4a" />
-			<guid isPermaLink="False">УП3</guid>
+			<guid isPermaLink="false">УП3</guid>
 			<itunes:duration>266</itunes:duration>
 			<itunes:episode>3</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -63,7 +63,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №4</title>
 			<enclosure length="9987752" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20004.m4a" />
-			<guid isPermaLink="False">УП4</guid>
+			<guid isPermaLink="false">УП4</guid>
 			<itunes:duration>402</itunes:duration>
 			<itunes:episode>4</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -73,7 +73,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №5</title>
 			<enclosure length="11098526" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20005.m4a" />
-			<guid isPermaLink="False">УП5</guid>
+			<guid isPermaLink="false">УП5</guid>
 			<itunes:duration>447</itunes:duration>
 			<itunes:episode>5</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -83,7 +83,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №6</title>
 			<enclosure length="9267453" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20006.m4a" />
-			<guid isPermaLink="False">УП6</guid>
+			<guid isPermaLink="false">УП6</guid>
 			<itunes:duration>373</itunes:duration>
 			<itunes:episode>6</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -93,7 +93,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №7</title>
 			<enclosure length="10021964" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20007.m4a" />
-			<guid isPermaLink="False">УП7</guid>
+			<guid isPermaLink="false">УП7</guid>
 			<itunes:duration>403</itunes:duration>
 			<itunes:episode>7</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -103,7 +103,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №8</title>
 			<enclosure length="8866805" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20008.m4a" />
-			<guid isPermaLink="False">УП8</guid>
+			<guid isPermaLink="false">УП8</guid>
 			<itunes:duration>356</itunes:duration>
 			<itunes:episode>8</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -113,7 +113,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №9</title>
 			<enclosure length="19802348" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20009.m4a" />
-			<guid isPermaLink="False">УП9</guid>
+			<guid isPermaLink="false">УП9</guid>
 			<itunes:duration>802</itunes:duration>
 			<itunes:episode>9</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -124,7 +124,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №10</title>
 			<enclosure length="20769796" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20010.m4a" />
-			<guid isPermaLink="False">УП10</guid>
+			<guid isPermaLink="false">УП10</guid>
 			<itunes:duration>842</itunes:duration>
 			<itunes:episode>10</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -134,7 +134,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №11</title>
 			<enclosure length="23278040" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20011.m4a" />
-			<guid isPermaLink="False">УП11</guid>
+			<guid isPermaLink="false">УП11</guid>
 			<itunes:duration>944</itunes:duration>
 			<itunes:episode>11</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -144,7 +144,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №12</title>
 			<enclosure length="19716862" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20012.m4a" />
-			<guid isPermaLink="False">УП12</guid>
+			<guid isPermaLink="false">УП12</guid>
 			<itunes:duration>798</itunes:duration>
 			<itunes:episode>12</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -154,7 +154,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №13</title>
 			<enclosure length="9932865" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20013.m4a" />
-			<guid isPermaLink="False">УП13</guid>
+			<guid isPermaLink="false">УП13</guid>
 			<itunes:duration>399</itunes:duration>
 			<itunes:episode>13</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -164,7 +164,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №14</title>
 			<enclosure length="12722019" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20014.m4a" />
-			<guid isPermaLink="False">УП14</guid>
+			<guid isPermaLink="false">УП14</guid>
 			<itunes:duration>513</itunes:duration>
 			<itunes:episode>14</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -174,7 +174,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №15</title>
 			<enclosure length="12774317" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20015.m4a" />
-			<guid isPermaLink="False">УП15</guid>
+			<guid isPermaLink="false">УП15</guid>
 			<itunes:duration>515</itunes:duration>
 			<itunes:episode>15</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -184,7 +184,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №16</title>
 			<enclosure length="13204301" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20016.m4a" />
-			<guid isPermaLink="False">УП16</guid>
+			<guid isPermaLink="false">УП16</guid>
 			<itunes:duration>531</itunes:duration>
 			<itunes:episode>16</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -194,7 +194,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №17</title>
 			<enclosure length="11617287" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20017.m4a" />
-			<guid isPermaLink="False">УП17</guid>
+			<guid isPermaLink="false">УП17</guid>
 			<itunes:duration>469</itunes:duration>
 			<itunes:episode>17</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -204,7 +204,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №18</title>
 			<enclosure length="14907553" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20018.m4a" />
-			<guid isPermaLink="False">УП18</guid>
+			<guid isPermaLink="false">УП18</guid>
 			<itunes:duration>603</itunes:duration>
 			<itunes:episode>18</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -214,7 +214,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №19</title>
 			<enclosure length="10395879" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20019.m4a" />
-			<guid isPermaLink="False">УП19</guid>
+			<guid isPermaLink="false">УП19</guid>
 			<itunes:duration>419</itunes:duration>
 			<itunes:episode>19</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -224,7 +224,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №20</title>
 			<enclosure length="27715003" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20020.m4a" />
-			<guid isPermaLink="False">УП20</guid>
+			<guid isPermaLink="false">УП20</guid>
 			<itunes:duration>1126</itunes:duration>
 			<itunes:episode>20</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -234,7 +234,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №21</title>
 			<enclosure length="13818715" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20021.m4a" />
-			<guid isPermaLink="False">УП21</guid>
+			<guid isPermaLink="false">УП21</guid>
 			<itunes:duration>559</itunes:duration>
 			<itunes:episode>21</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -244,7 +244,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №22</title>
 			<enclosure length="17012581" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20022.m4a" />
-			<guid isPermaLink="False">УП22</guid>
+			<guid isPermaLink="false">УП22</guid>
 			<itunes:duration>689</itunes:duration>
 			<itunes:episode>22</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -254,7 +254,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №23</title>
 			<enclosure length="24291543" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20023.m4a" />
-			<guid isPermaLink="False">УП23</guid>
+			<guid isPermaLink="false">УП23</guid>
 			<itunes:duration>984</itunes:duration>
 			<itunes:episode>23</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -264,7 +264,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №24</title>
 			<enclosure length="18050965" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20024.m4a" />
-			<guid isPermaLink="False">УП24</guid>
+			<guid isPermaLink="false">УП24</guid>
 			<itunes:duration>730</itunes:duration>
 			<itunes:episode>24</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -274,7 +274,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №25</title>
 			<enclosure length="13892473" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20025.m4a" />
-			<guid isPermaLink="False">УП25</guid>
+			<guid isPermaLink="false">УП25</guid>
 			<itunes:duration>560</itunes:duration>
 			<itunes:episode>25</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -284,7 +284,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №26</title>
 			<enclosure length="18636277" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20026.m4a" />
-			<guid isPermaLink="False">УП26</guid>
+			<guid isPermaLink="false">УП26</guid>
 			<itunes:duration>755</itunes:duration>
 			<itunes:episode>26</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -294,7 +294,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №27</title>
 			<enclosure length="13754431" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20027.m4a" />
-			<guid isPermaLink="False">УП27</guid>
+			<guid isPermaLink="false">УП27</guid>
 			<itunes:duration>554</itunes:duration>
 			<itunes:episode>27</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -304,7 +304,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №28</title>
 			<enclosure length="16708190" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20028.m4a" />
-			<guid isPermaLink="False">УП28</guid>
+			<guid isPermaLink="false">УП28</guid>
 			<itunes:duration>674</itunes:duration>
 			<itunes:episode>28</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -316,7 +316,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<description>Этот выпуск носит рейтинг 18+, CW: kink</description>
 			<itunes:explicit>true</itunes:explicit>
 			<enclosure length="11937182" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20029.m4a" />
-			<guid isPermaLink="False">УП29</guid>
+			<guid isPermaLink="false">УП29</guid>
 			<itunes:duration>481</itunes:duration>
 			<itunes:episode>29</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -326,7 +326,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №30</title>
 			<enclosure length="17734437" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20030.m4a" />
-			<guid isPermaLink="False">УП30</guid>
+			<guid isPermaLink="false">УП30</guid>
 			<itunes:duration>716</itunes:duration>
 			<itunes:episode>30</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -338,7 +338,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<title>Дополнение к Угадай персонажа №30</title>
 			<description>Обсуждаем произведения о персонаже №30</description>
 			<enclosure length="2386420" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20030%20дополнение.m4a" />
-			<guid isPermaLink="False">УП30Д</guid>
+			<guid isPermaLink="false">УП30Д</guid>
 			<itunes:duration>272</itunes:duration>
 			<itunes:episode>30</itunes:episode>
 			<itunes:episodeType>bonus</itunes:episodeType>
@@ -349,7 +349,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №31</title>
 			<enclosure length="12054652" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20031.m4a" />
-			<guid isPermaLink="False">УП31</guid>
+			<guid isPermaLink="false">УП31</guid>
 			<itunes:duration>485</itunes:duration>
 			<itunes:episode>31</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -359,7 +359,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №32</title>
 			<enclosure length="7437877" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20032.m4a" />
-			<guid isPermaLink="False">УП32</guid>
+			<guid isPermaLink="false">УП32</guid>
 			<itunes:duration>297</itunes:duration>
 			<itunes:episode>32</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -371,7 +371,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<title>Песня к персонажу №32</title>
 			<description>Бонусный контент к персонажу №32</description>
 			<enclosure length="434295" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20032%20бонус.m4a" />
-			<guid isPermaLink="False">УП32Б</guid>
+			<guid isPermaLink="false">УП32Б</guid>
 			<itunes:duration>38</itunes:duration>
 			<itunes:episode>32</itunes:episode>
 			<itunes:episodeType>bonus</itunes:episodeType>
@@ -383,7 +383,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<title>Угадай персонажа №33</title>
 			<description>Этот выпуск содержит триггеры, <![CDATA[<details><summary>связанные</summary> с домашним насилием и убийством</details>]]></description>
 			<enclosure length="21222057" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20033.m4a" />
-			<guid isPermaLink="False">УП33</guid>
+			<guid isPermaLink="false">УП33</guid>
 			<itunes:duration>857</itunes:duration>
 			<itunes:episode>33</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -393,7 +393,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №34</title>
 			<enclosure length="9400853" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20034.m4a" />
-			<guid isPermaLink="False">УП34</guid>
+			<guid isPermaLink="false">УП34</guid>
 			<itunes:duration>377</itunes:duration>
 			<itunes:episode>34</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -403,7 +403,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №35</title>
 			<enclosure length="15232899" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20035.m4a" />
-			<guid isPermaLink="False">УП35</guid>
+			<guid isPermaLink="false">УП35</guid>
 			<itunes:duration>615</itunes:duration>
 			<itunes:episode>35</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -413,7 +413,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №36</title>
 			<enclosure length="19187856" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20036.m4a" />
-			<guid isPermaLink="False">УП36</guid>
+			<guid isPermaLink="false">УП36</guid>
 			<itunes:duration>775</itunes:duration>
 			<itunes:episode>36</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -423,7 +423,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №37</title>
 			<enclosure length="10121601" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20037.m4a" />
-			<guid isPermaLink="False">УП37</guid>
+			<guid isPermaLink="false">УП37</guid>
 			<itunes:duration>407</itunes:duration>
 			<itunes:episode>37</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -435,7 +435,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<description><![CDATA[<p>В конце выпуска есть одно матерное слово.</p> <p>Если вы не знаете персонажа №38 даже дослушав эпизод выше до конца, то вы можете ознакомиться с произведением <a href="https://t.me/literaturna/758">в посте в нашем Телеграм-канале</a></p>]]></description>
 			<itunes:explicit>true</itunes:explicit>
 			<enclosure length="11664184" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20038.m4a" />
-			<guid isPermaLink="False">УП38</guid>
+			<guid isPermaLink="false">УП38</guid>
 			<itunes:duration>470</itunes:duration>
 			<itunes:episode>38</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -445,7 +445,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №39</title>
 			<enclosure length="10595530" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20039.m4a" />
-			<guid isPermaLink="False">УП39</guid>
+			<guid isPermaLink="false">УП39</guid>
 			<itunes:duration>426</itunes:duration>
 			<itunes:episode>39</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -455,7 +455,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №40</title>
 			<enclosure length="15572702" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20040.m4a" />
-			<guid isPermaLink="False">УП40</guid>
+			<guid isPermaLink="false">УП40</guid>
 			<itunes:duration>628</itunes:duration>
 			<itunes:episode>40</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -466,7 +466,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<title>Угадай персонажа №41</title>
 			<description>В этом экспериментальном эпизоде мы задаём персонажу вопросы из блитц-опросника Стивена Колбера (The Colbert Questionert). <![CDATA[<a href="https://jarinkv.github.io/guessthecharacter/The%20Colbert%20Questionert.pdf">Скачать в PDF</a>]]></description>
 			<enclosure length="13570949" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20041.m4a" />
-			<guid isPermaLink="False">УП41</guid>
+			<guid isPermaLink="false">УП41</guid>
 			<itunes:duration>547</itunes:duration>
 			<itunes:episode>41</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -477,7 +477,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<title>Угадай персонажа №42</title>
 			<description>Продолжаем использовать опростник Колбера</description>
 			<enclosure length="12620420" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20042.m4a" />
-			<guid isPermaLink="False">УП42</guid>
+			<guid isPermaLink="false">УП42</guid>
 			<itunes:duration>508</itunes:duration>
 			<itunes:episode>42</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -489,7 +489,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<title>The Colbert Questionert: Анна Гвоздь</title>
 			<description>Бонус к эпизодам Угадай персонажа 41–42 — вопросы к Анне Гвоздь</description>
 			<enclosure length="13361785" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/The%20Colbert%20Questionert%20Анна%20Гвоздь.m4a" />
-			<guid isPermaLink="False">CQ1</guid>
+			<guid isPermaLink="false">CQ1</guid>
 			<itunes:duration>645</itunes:duration>
 			<itunes:episode>42</itunes:episode>
 			<itunes:episodeType>bonus</itunes:episodeType>
@@ -501,7 +501,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<title>The Colbert Questionert: Кирилл Ярин</title>
 			<description>Бонус к персонажам 41–42 — вопросы Кириллу. <![CDATA[<a href="https://youtu.be/fOTI0_od0go">Видео версия по ссылке</a>]]></description>
 			<enclosure length="11133316" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/The%20Colbert%20Questionert%20Кирилл%20Ярин.m4a" />
-			<guid isPermaLink="False">CQ2</guid>
+			<guid isPermaLink="false">CQ2</guid>
 			<itunes:duration>496</itunes:duration>
 			<itunes:episode>42</itunes:episode>
 			<itunes:episodeType>bonus</itunes:episodeType>
@@ -512,7 +512,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №43</title>
 			<enclosure length="10365519" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20043.m4a" />
-			<guid isPermaLink="False">УП43</guid>
+			<guid isPermaLink="false">УП43</guid>
 			<itunes:duration>417</itunes:duration>
 			<itunes:episode>43</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -522,7 +522,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №44</title>
 			<enclosure length="32644868" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20044.m4a" />
-			<guid isPermaLink="False">УП44</guid>
+			<guid isPermaLink="false">УП44</guid>
 			<itunes:duration>1324</itunes:duration>
 			<itunes:episode>44</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -532,7 +532,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №45</title>
 			<enclosure length="13416647" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20045.m4a" />
-			<guid isPermaLink="False">УП45</guid>
+			<guid isPermaLink="false">УП45</guid>
 			<itunes:duration>541</itunes:duration>
 			<itunes:episode>45</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -543,7 +543,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<title>Угадай персонажа №46</title>
 			<description>Этот экспериментальный эпизод записывался в прямом эфире</description>
 			<enclosure length="22158136" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20046.m4a" />
-			<guid isPermaLink="False">УП46</guid>
+			<guid isPermaLink="false">УП46</guid>
 			<itunes:duration>899</itunes:duration>
 			<itunes:episode>46</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -553,7 +553,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №47</title>
 			<enclosure length="19743452" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20047.m4a" />
-			<guid isPermaLink="False">УП47</guid>
+			<guid isPermaLink="false">УП47</guid>
 			<itunes:duration>802</itunes:duration>
 			<itunes:episode>47</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -563,7 +563,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №48</title>
 			<enclosure length="11647275" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20048.m4a" />
-			<guid isPermaLink="False">УП48</guid>
+			<guid isPermaLink="false">УП48</guid>
 			<itunes:duration>470</itunes:duration>
 			<itunes:episode>48</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -573,7 +573,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №49</title>
 			<enclosure length="22518700" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20049.m4a" />
-			<guid isPermaLink="False">УП49</guid>
+			<guid isPermaLink="false">УП49</guid>
 			<itunes:duration>912</itunes:duration>
 			<itunes:episode>49</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -583,7 +583,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №50</title>
 			<enclosure length="25188490" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20050.m4a" />
-			<guid isPermaLink="False">УП50</guid>
+			<guid isPermaLink="false">УП50</guid>
 			<itunes:duration>1019</itunes:duration>
 			<itunes:episode>50</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -593,7 +593,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №51</title>
 			<enclosure length="12264672" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20051.m4a" />
-			<guid isPermaLink="False">УП51</guid>
+			<guid isPermaLink="false">УП51</guid>
 			<itunes:duration>495</itunes:duration>
 			<itunes:episode>51</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -603,7 +603,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №52</title>
 			<enclosure length="23933486" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20052.m4a" />
-			<guid isPermaLink="False">УП52</guid>
+			<guid isPermaLink="false">УП52</guid>
 			<itunes:duration>969</itunes:duration>
 			<itunes:episode>52</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -613,7 +613,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №53</title>
 			<enclosure length="24537911" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20053.m4a" />
-			<guid isPermaLink="False">УП53</guid>
+			<guid isPermaLink="false">УП53</guid>
 			<itunes:duration>996</itunes:duration>
 			<itunes:episode>53</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -623,7 +623,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №54</title>
 			<enclosure length="45301326" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20054.m4a" />
-			<guid isPermaLink="False">УП54</guid>
+			<guid isPermaLink="false">УП54</guid>
 			<itunes:duration>1843</itunes:duration>
 			<itunes:episode>54</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -633,7 +633,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №55</title>
 			<enclosure length="5664190" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20055.m4a" />
-			<guid isPermaLink="False">УП55</guid>
+			<guid isPermaLink="false">УП55</guid>
 			<itunes:duration>226</itunes:duration>
 			<itunes:episode>55</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -643,7 +643,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №56</title>
 			<enclosure length="23846681" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20056.m4a" />
-			<guid isPermaLink="False">УП56</guid>
+			<guid isPermaLink="false">УП56</guid>
 			<itunes:duration>964</itunes:duration>
 			<itunes:episode>56</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -653,7 +653,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №57</title>
 			<enclosure length="26004249" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20057.m4a" />
-			<guid isPermaLink="False">УП57</guid>
+			<guid isPermaLink="false">УП57</guid>
 			<itunes:duration>1057</itunes:duration>
 			<itunes:episode>57</itunes:episode>
 			<itunes:season>1</itunes:season>
