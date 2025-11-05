@@ -49,7 +49,7 @@
 									<xsl:attribute name="href">
 										<xsl:value-of select="link"/>
 									</xsl:attribute>
-									Пост в нашем Telegram
+									Пост в Литературной
 								</a>
 							</p>
 							<div class="details">
@@ -72,10 +72,6 @@
 													<xsl:value-of select="jarinkv:morelink/jarinkv:moretext"/>
 												</a>
 											</xsl:if>
-											<!--
-											<xsl:for-each select="">
-											</xsl:for-each>
-											-->
 										</xsl:when>
 										<xsl:otherwise>
 											<xsl:value-of select="description" disable-output-escaping="yes"/>
