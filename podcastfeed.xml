@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="podcaststyle.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:podcast="https://podcastindex.org/namespace/1.0"
 xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:jarinkv="https://jarinkv.github.io/guessthecharacter/nohtml"
 xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	<channel>
 		<atom:link href="https://jarinkv.github.io/guessthecharacter/podcastfeed.xml" rel="self" type="application/rss+xml" />
@@ -382,6 +384,8 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №33</title>
 			<description>Этот выпуск содержит триггеры, <![CDATA[<details><summary>связанные</summary> с домашним насилием и убийством</details>]]></description>
+			<jarinkv:nohtml>Этот выпуск содержит триггеры, связанные с </jarinkv:nohtml>
+			<jarinkv:spoiler>домашним насилием и убийством</jarinkv:spoiler>
 			<enclosure length="21222057" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20033.m4a" />
 			<guid isPermaLink="false">УП33</guid>
 			<itunes:duration>857</itunes:duration>
@@ -432,7 +436,12 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №38</title>
-			<description><![CDATA[<p>В конце выпуска есть одно матерное слово.</p> <p>Если вы не знаете персонажа №38 даже дослушав эпизод выше до конца, то вы можете ознакомиться с произведением <a href="https://t.me/literaturna/758">в посте в нашем Телеграм-канале</a> — https://t.me/literaturna/758</p>]]></description>
+			<description>В конце выпуска есть одно матерное слово. Если вы не знаете персонажа №38 даже дослушав этот эпизод до конца, то вы можете ознакомиться с произведением <![CDATA[<a href="https://t.me/literaturna/758">в посте в нашем Телеграм-канале</a>]]> — https://t.me/literaturna/758</description>
+			<jarinkv:nohtml>В конце выпуска есть одно матерное слово. Если вы не знаете персонажа №38 даже дослушав этот эпизод до конца, то вы можете ознакомиться с произведением </jarinkv:nohtml>
+			<jarinkv:morelink>
+				<jarinkv:moretext>в посте в нашем Телеграм-канале</jarinkv:moretext>
+				<jarinkv:morehref>https://t.me/literaturna/758</jarinkv:morehref>
+			</jarinkv:morelink>
 			<itunes:explicit>true</itunes:explicit>
 			<enclosure length="11664184" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20038.m4a" />
 			<guid isPermaLink="false">УП38</guid>
@@ -464,7 +473,9 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №41</title>
-			<description>В этом экспериментальном эпизоде мы задаём персонажу вопросы из блитц-опросника Стивена Колбера (The Colbert Questionert). <![CDATA[<a href="https://jarinkv.github.io/guessthecharacter/The%20Colbert%20Questionert.pdf">Скачать в PDF</a> — https://jarinkv.github.io/guessthecharacter/The%20Colbert%20Questionert.pdf]]></description>
+			<description>В этом экспериментальном эпизоде мы задаём персонажу вопросы из блитц-опросника Стивена Колберта (The Colbert Questionert). <![CDATA[<a href="https://jarinkv.github.io/guessthecharacter/The%20Colbert%20Questionert.pdf">Скачать в PDF</a>]]> — https://jarinkv.github.io/guessthecharacter/The%20Colbert%20Questionert.pdf</description>
+			<jarinkv:nohtml>В этом экспериментальном эпизоде мы задаём персонажу вопросы из блитц-опросника Стивена Колберта (The Colbert Questionert).</jarinkv:nohtml>
+			<jarinkv:suplink href="https://jarinkv.github.io/guessthecharacter/The%20Colbert%20Questionert.pdf">PDF с вопросами</jarinkv:suplink>
 			<enclosure length="13570949" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20041.m4a" />
 			<guid isPermaLink="false">УП41</guid>
 			<itunes:duration>547</itunes:duration>
@@ -475,7 +486,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №42</title>
-			<description>Продолжаем использовать опростник Колбера</description>
+			<description>Продолжаем использовать опростник Колберта</description>
 			<enclosure length="12620420" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20042.m4a" />
 			<guid isPermaLink="false">УП42</guid>
 			<itunes:duration>508</itunes:duration>
@@ -500,6 +511,11 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>The Colbert Questionert: Кирилл Ярин</title>
 			<description>Бонус к персонажам 41–42 — вопросы Кириллу. <![CDATA[<a href="https://youtu.be/fOTI0_od0go">Видео версия по ссылке</a> — https://youtu.be/fOTI0_od0go]]></description>
+			<jarinkv:nohtml>Бонус к персонажам 41–42 — вопросы Кириллу. </jarinkv:nohtml>
+			<jarinkv:morelink>
+				<jarinkv:moretext>Видео версия на YouTube</jarinkv:moretext>
+				<jarinkv:morehref>https://youtu.be/fOTI0_od0go</jarinkv:morehref>
+			</jarinkv:morelink>
 			<enclosure length="11133316" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/The%20Colbert%20Questionert%20Кирилл%20Ярин.m4a" />
 			<guid isPermaLink="false">CQ2</guid>
 			<itunes:duration>496</itunes:duration>
