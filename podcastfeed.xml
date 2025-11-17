@@ -676,5 +676,25 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<link>https://t.me/literaturna/1023</link>
 			<pubDate>Sun, 7 Sep 2025 21:00:00 +0300</pubDate>
 		</item>
+		<item>
+			<title>Угадай персонажа №58</title>
+			<enclosure length="19840269" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20058.m4a" />
+			<guid isPermaLink="False">УП58</guid>
+			<itunes:duration>805</itunes:duration>
+			<itunes:episode>58</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<link>https://t.me/literaturna/1039</link>
+			<pubDate>Mon, 17 Nov 2025 21:00:00 +0300</pubDate>
+		</item>
+		<!--item>
+			<title>Угадай персонажа №59</title>
+			<enclosure length="14349861" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20059.m4a" />
+			<guid isPermaLink="False">УП59</guid>
+			<itunes:duration>581</itunes:duration>
+			<itunes:episode>59</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<link>https://t.me/literaturna/1040</link>
+			<pubDate>Tue, 18 Nov 2025 21:00:00 +0300</pubDate>
+		</item-->
 	</channel>
 </rss>
