@@ -7,6 +7,7 @@
 				<meta charset="utf-8"/>
 				<title>Угадай персонажа! (подкаст)</title>
 				<link rel="alternate" type="application/rss+xml" title="Угадай персонажа!" href="https://jarinkv.github.io/guessthecharacter/podcastfeed.xml"/>
+				<meta name="viewport" content="width=device-width" />
 				<link rel="stylesheet" type="text/css" href="podcastcss.css"/>
 			</head>
 			<body>
@@ -27,15 +28,18 @@
 				</header>
 				<main>
 					<h1><xsl:value-of select="/rss/channel/title"/></h1>
-					<img>
-						
-						<xsl:attribute name="src">art/anna_with_book.jpg</xsl:attribute>
-						<xsl:attribute name="alt">Анна Гвоздь с книгой пристально смотрит на тебя</xsl:attribute>
-						<xsl:attribute name="title"><xsl:value-of select="/rss/channel/description"/></xsl:attribute>
-					</img>
-					<p><xsl:value-of select="/rss/channel/description"/></p>
-					<p>Это страница является <a class="url"><xsl:attribute name="href"><xsl:value-of select="/rss/channel/atom:link/@href"/></xsl:attribute>прямой RSS</a>, которую можно добавить в приложение для подкастов. Подкаст является частью проекта Книжный, и все выпуски также публикуются в <a href="https://t.me/literaturna">ЛИТЕРАТУРНОЙ</a> под тэгом #интервью_персонаж.</p>
-					<p>Внизу страницы есть <a href="#wheretolisten">список приложений для подкастов</a>, где мы уже точно есть</p>
+					<div class="textwithphoto">
+						<img class="photo">
+							<xsl:attribute name="src">art/anna_with_book.jpg</xsl:attribute>
+							<xsl:attribute name="alt">Анна Гвоздь с книгой пристально смотрит на тебя</xsl:attribute>
+							<xsl:attribute name="title"><xsl:value-of select="/rss/channel/description"/></xsl:attribute>
+						</img>
+						<p><xsl:value-of select="/rss/channel/description"/></p>
+						<p>Подкаст является частью проекта Книжный, и все выпуски также публикуются в <a href="https://t.me/literaturna">ЛИТЕРАТУРНОЙ</a> под тэгом #интервью_персонаж.</p>
+						<p>Внизу страницы есть <a href="#wheretolisten">список платформ и каталогов для подкастов</a>, где мы уже точно есть.</p>
+						<p>Эта страница является <a class="url"><xsl:attribute name="href"><xsl:value-of select="/rss/channel/atom:link/@href"/></xsl:attribute>прямой RSS</a>, которую можно добавить в приложение для подкастов.</p>
+						<p><a class="button" href="pcast://jarinkv.github.io/guessthecharacter/podcastfeed.xml">Открой в приложении для подкастов</a></p>
+					</div>
 					<h2>Список эпизодов</h2>
 					<ul class="episodes">
 						<xsl:for-each select="/rss/channel/item">
@@ -58,12 +62,8 @@
 										<xsl:when test="jarinkv:nohtml">
 											<xsl:value-of select="jarinkv:nohtml"/>
 											<xsl:if test="jarinkv:spoiler">
-												<span class="spoiler">
-													<xsl:variable name="spoilerlink">spoiler<xsl:value-of select="guid"/></xsl:variable>
-													<xsl:attribute name="id"><xsl:value-of select="$spoilerlink"/></xsl:attribute>
-													<a><xsl:attribute name="href">#<xsl:value-of select="$spoilerlink"/></xsl:attribute>
-														<xsl:value-of select="jarinkv:spoiler"/>
-													</a>
+												<span class="spoiler" tabindex="0">
+													<xsl:value-of select="jarinkv:spoiler"/>
 												</span>
 											</xsl:if>
 											<xsl:if test="jarinkv:morelink">
