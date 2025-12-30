@@ -726,7 +726,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<link>https://t.me/literaturna/1053</link>
 			<pubDate>Tue, 30 Dec 2025 21:00:00 +0300</pubDate>
 		</item>
-		<!--item>
+		<item>
 			<title>Угадай персонажа №63</title>
 			<enclosure length="23591224" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20063.m4a" />
 			<guid isPermaLink="false">УП63</guid>
@@ -735,6 +735,6 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/1054</link>
 			<pubDate>Wed, 31 Dec 2025 21:00:00 +0300</pubDate>
-		</item-->
+		</item>
 	</channel>
 </rss>
