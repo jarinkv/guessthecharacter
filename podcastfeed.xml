@@ -679,7 +679,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №58</title>
 			<enclosure length="19840269" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20058.m4a" />
-			<guid isPermaLink="False">УП58</guid>
+			<guid isPermaLink="false">УП58</guid>
 			<itunes:duration>805</itunes:duration>
 			<itunes:episode>58</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -689,7 +689,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №59</title>
 			<enclosure length="14349861" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20059.m4a" />
-			<guid isPermaLink="False">УП59</guid>
+			<guid isPermaLink="false">УП59</guid>
 			<itunes:duration>581</itunes:duration>
 			<itunes:episode>59</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -699,7 +699,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №60</title>
 			<enclosure length="23841763" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20060.m4a" />
-			<guid isPermaLink="False">УП60</guid>
+			<guid isPermaLink="false">УП60</guid>
 			<itunes:duration>969</itunes:duration>
 			<itunes:episode>60</itunes:episode>
 			<itunes:season>1</itunes:season>
@@ -709,12 +709,32 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		<item>
 			<title>Угадай персонажа №61</title>
 			<enclosure length="22930411" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20061.m4a" />
-			<guid isPermaLink="False">УП61</guid>
+			<guid isPermaLink="false">УП61</guid>
 			<itunes:duration>932</itunes:duration>
 			<itunes:episode>61</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/1051</link>
-			<pubDate>Fri, 27 Dec 2025 21:00:00 +0300</pubDate>
+			<pubDate>Sat, 27 Dec 2025 21:00:00 +0300</pubDate>
 		</item>
+		<item>
+			<title>Угадай персонажа №62</title>
+			<enclosure length="14243573" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20062.m4a" />
+			<guid isPermaLink="false">УП62</guid>
+			<itunes:duration>577</itunes:duration>
+			<itunes:episode>62</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<link>https://t.me/literaturna/1053</link>
+			<pubDate>Tue, 30 Dec 2025 21:00:00 +0300</pubDate>
+		</item>
+		<!--item>
+			<title>Угадай персонажа №63</title>
+			<enclosure length="23591224" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20063.m4a" />
+			<guid isPermaLink="false">УП63</guid>
+			<itunes:duration>959</itunes:duration>
+			<itunes:episode>63</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<link>https://t.me/literaturna/1054</link>
+			<pubDate>Wed, 31 Dec 2025 21:00:00 +0300</pubDate>
+		</item-->
 	</channel>
 </rss>
