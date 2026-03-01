@@ -747,5 +747,29 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<link>https://t.me/literaturna/1064</link>
 			<pubDate>Sat, 28 Feb 2026 21:00:00 +0300</pubDate>
 		</item>
-	</channel>
+		<item>
+			<title>Угадай персонажа №65</title>
+			<enclosure length="7579909" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20065.m4a" />
+			<guid isPermaLink="false">УП65</guid>
+			<itunes:duration>899</itunes:duration>
+			<itunes:episode>65</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<description>Загадывает Сергей, отгадывают Анна, Кирилл и вы</description>
+			<link>https://t.me/literaturna/1065</link>
+			<pubDate>Sun, 1 Mar 2026 21:00:00 +0300</pubDate>
+		</item>
+<!--
+ 		<item>
+			<title>Угадай персонажа №66</title>
+			<enclosure length="5193333" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20066.m4a" />
+			<guid isPermaLink="false">УП66</guid>
+			<itunes:duration>612</itunes:duration>
+			<itunes:episode>66</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<description>Загадывает Кирилл, отгадывают Анна, Сергей и вы</description>
+			<link>https://t.me/literaturna/1066</link>
+			<pubDate>Sun, 2 Mar 2026 21:00:00 +0300</pubDate>
+		</item>
+ -->
+ 	</channel>
 </rss>
