@@ -758,7 +758,6 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<link>https://t.me/literaturna/1065</link>
 			<pubDate>Sun, 1 Mar 2026 21:00:00 +0300</pubDate>
 		</item>
-<!--
  		<item>
 			<title>Угадай персонажа №66</title>
 			<enclosure length="5193333" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20066.m4a" />
@@ -768,8 +767,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:season>1</itunes:season>
 			<description>Загадывает Кирилл, отгадывают Анна, Сергей и вы</description>
 			<link>https://t.me/literaturna/1066</link>
-			<pubDate>Sun, 2 Mar 2026 21:00:00 +0300</pubDate>
+			<pubDate>Mon, 2 Mar 2026 21:00:00 +0300</pubDate>
 		</item>
- -->
  	</channel>
 </rss>
