@@ -40,6 +40,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>1</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/894</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Sat, 21 Jun 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -50,6 +51,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>2</itunes:episode>			
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/895</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Sun, 22 Jun 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -60,6 +62,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>3</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/896</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Mon, 23 Jun 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -70,6 +73,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>4</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/897</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Tue, 24 Jun 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -80,6 +84,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>5</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/899</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Wed, 25 Jun 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -90,6 +95,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>6</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/914</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Thu, 26 Jun 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -100,6 +106,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>7</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/915</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Fri, 27 Jun 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -110,6 +117,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>8</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/916</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Sat, 28 Jun 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -119,7 +127,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:duration>802</itunes:duration>
 			<itunes:episode>9</itunes:episode>
 			<itunes:season>1</itunes:season>
-			<description>Кирилл приносит извинения за совершённую им в этом эпизоде глупость.</description>
+			<description>Загадывает Анна. Кирилл приносит извинения за совершённую им в этом эпизоде глупость.</description>
 			<link>https://t.me/literaturna/917</link>
 			<pubDate>Sun, 29 Jun 2025 21:00:00 +0300</pubDate>
 		</item>
@@ -131,6 +139,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>10</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/919</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Mon, 30 Jun 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -141,6 +150,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>11</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/920</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Tue, 1 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -151,6 +161,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>12</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/923</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Wed, 2 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -161,6 +172,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>13</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/924</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Thu, 3 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -171,6 +183,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>14</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/925</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Fri, 4 Jul 2025 20:50:00 +0300</pubDate>
 		</item>
 		<item>
@@ -181,6 +194,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>15</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/926</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Fri, 4 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -191,6 +205,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>16</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/927</link>
+			<description>Загадывает Кирилл, по-английски. This episode is in English.</description>
 			<pubDate>Sat, 5 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -201,6 +216,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>17</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/928</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Sun, 6 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -210,6 +226,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:duration>603</itunes:duration>
 			<itunes:episode>18</itunes:episode>
 			<itunes:season>1</itunes:season>
+			<description>Загадывает Анна</description>
 			<link>https://t.me/literaturna/929</link>
 			<pubDate>Mon, 7 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
@@ -221,6 +238,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>19</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/930</link>
+			<description>Экспериментальный эпизод: персонажа загадывает Кирилл, но не только себе, но и Анне</description>
 			<pubDate>Tue, 8 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -231,6 +249,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>20</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/931</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Wed, 9 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -241,6 +260,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>21</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/932</link>
+			<description>Загадывает Кирилл, переходит на английский. This episode is mostly in English, but it begins in Russian.</description>
 			<pubDate>Thu, 10 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -251,6 +271,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>22</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/938</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Fri, 11 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -261,6 +282,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>23</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/939</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Sat, 12 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -271,6 +293,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>24</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/940</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Sun, 13 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -281,6 +304,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>25</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/941</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Mon, 14 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -291,6 +315,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>26</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/944</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Tue, 15 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -301,6 +326,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>27</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/945</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Wed, 16 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -311,6 +337,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>28</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/946</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Thu, 17 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -323,6 +350,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>29</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/947</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Fri, 18 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -334,6 +362,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/948</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Sat, 19 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -356,6 +385,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>31</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/950</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Sun, 20 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -366,6 +396,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>32</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:season>1</itunes:season>
+			<description>Загадывает Анна</description>
 			<link>https://t.me/literaturna/951</link>
 			<pubDate>Mon, 21 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
@@ -383,8 +414,8 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №33</title>
-			<description><![CDATA[<p>Этот выпуск содержит триггеры, <details><summary>связанные</summary> с домашним насилием и убийством</details></p>]]></description>
-			<jarinkv:nohtml>Этот выпуск содержит триггеры, связанные с </jarinkv:nohtml>
+			<description><![CDATA[<p>Загадывает Анна. Этот выпуск содержит триггеры, <details><summary>связанные</summary> с домашним насилием и убийством</details></p>]]></description>
+			<jarinkv:nohtml>Загадывает Анна. Этот выпуск содержит триггеры, связанные с </jarinkv:nohtml>
 			<jarinkv:spoiler>домашним насилием и убийством</jarinkv:spoiler>
 			<enclosure length="21222057" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20033.m4a" />
 			<guid isPermaLink="false">УП33</guid>
@@ -402,6 +433,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>34</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/954</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Wed, 23 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -412,6 +444,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>35</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/955</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Thu, 24 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -422,6 +455,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>36</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/956</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Fri, 25 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -432,12 +466,13 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>37</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/957</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Sat, 26 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
 			<title>Угадай персонажа №38</title>
-			<description><![CDATA[<p>В конце выпуска есть одно матерное слово. </p><p>Если вы не знаете персонажа №38 даже дослушав этот эпизод до конца, то вы можете ознакомиться с произведением <a href="https://t.me/literaturna/758">в посте в нашем Телеграм-канале</a> — https://t.me/literaturna/758</p>]]></description>
-			<jarinkv:nohtml>В конце выпуска есть одно матерное слово. Если вы не знаете персонажа №38 даже дослушав этот эпизод до конца, то вы можете ознакомиться с произведением </jarinkv:nohtml>
+			<description><![CDATA[<p>Загадывает Анна. В конце выпуска есть одно матерное слово. </p><p>Если вы не знаете персонажа №38 даже дослушав этот эпизод до конца, то вы можете ознакомиться с произведением <a href="https://t.me/literaturna/758">в посте в нашем Телеграм-канале</a> — https://t.me/literaturna/758</p>]]></description>
+			<jarinkv:nohtml>Загадывает Анна. В конце выпуска есть одно матерное слово. Если вы не знаете персонажа №38 даже дослушав этот эпизод до конца, то вы можете ознакомиться с произведением </jarinkv:nohtml>
 			<jarinkv:morelink>
 				<jarinkv:moretext>в посте в нашем Телеграм-канале</jarinkv:moretext>
 				<jarinkv:morehref>https://t.me/literaturna/758</jarinkv:morehref>
@@ -459,6 +494,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>39</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/960</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Mon, 28 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -469,12 +505,13 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>40</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/961</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Tue, 29 Jul 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
 			<title>Угадай персонажа №41</title>
-			<description><![CDATA[<p>В этом экспериментальном эпизоде мы задаём персонажу вопросы из блитц-опросника Стивена Колберта (The Colbert Questionert). </p><p><a href="https://jarinkv.github.io/guessthecharacter/The%20Colbert%20Questionert.pdf">Скачать в PDF</a> — https://jarinkv.github.io/guessthecharacter/The%20Colbert%20Questionert.pdf</p>]]></description>
-			<jarinkv:nohtml>В этом экспериментальном эпизоде мы задаём персонажу вопросы из блитц-опросника Стивена Колберта (The Colbert Questionert).</jarinkv:nohtml>
+			<description><![CDATA[<p>Загадывает Кирилл. В этом экспериментальном эпизоде мы задаём персонажу вопросы из блитц-опросника Стивена Колберта (The Colbert Questionert). </p><p><a href="https://jarinkv.github.io/guessthecharacter/The%20Colbert%20Questionert.pdf">Скачать в PDF</a> — https://jarinkv.github.io/guessthecharacter/The%20Colbert%20Questionert.pdf</p>]]></description>
+			<jarinkv:nohtml>Загадывает Кирилл. В этом экспериментальном эпизоде мы задаём персонажу вопросы из блитц-опросника Стивена Колберта (The Colbert Questionert).</jarinkv:nohtml>
 			<jarinkv:suplink href="https://jarinkv.github.io/guessthecharacter/The%20Colbert%20Questionert.pdf">PDF с вопросами</jarinkv:suplink>
 			<enclosure length="13570949" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20041.m4a" />
 			<guid isPermaLink="false">УП41</guid>
@@ -486,7 +523,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №42</title>
-			<description>Продолжаем использовать опростник Колберта</description>
+			<description>Загадывает Анна. Продолжаем использовать опростник Колберта</description>
 			<enclosure length="12620420" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20042.m4a" />
 			<guid isPermaLink="false">УП42</guid>
 			<itunes:duration>508</itunes:duration>
@@ -498,7 +535,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>The Colbert Questionert: Анна Гвоздь</title>
-			<description>Бонус к эпизодам Угадай персонажа 41–42 — вопросы к Анне Гвоздь</description>
+			<description>Бонус к эпизодам Угадай персонажа №№41–42 — вопросы к Анне Гвоздь</description>
 			<enclosure length="13361785" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/The%20Colbert%20Questionert%20Анна%20Гвоздь.m4a" />
 			<guid isPermaLink="false">CQ1</guid>
 			<itunes:duration>645</itunes:duration>
@@ -533,6 +570,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>43</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/984</link>
+			<description>Загадывает Кирилл</description>
 			<pubDate>Fri, 1 Aug 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -543,6 +581,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>44</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/985</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Sat, 2 Aug 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
@@ -553,11 +592,12 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:episode>45</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/986</link>
+			<description>Загадывает Анна</description>
 			<pubDate>Sun, 3 Aug 2025 21:00:00 +0300</pubDate>
 		</item>
 		<item>
 			<title>Угадай персонажа №46</title>
-			<description>Этот экспериментальный эпизод записывался в прямом эфире</description>
+			<description>Этот экспериментальный эпизод записывался в прямом эфире. Загадывает Кирилл</description>
 			<enclosure length="22158136" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20046.m4a" />
 			<guid isPermaLink="false">УП46</guid>
 			<itunes:duration>899</itunes:duration>
@@ -568,6 +608,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №47</title>
+			<description>Загадывает Кирилл</description>
 			<enclosure length="19743452" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20047.m4a" />
 			<guid isPermaLink="false">УП47</guid>
 			<itunes:duration>802</itunes:duration>
@@ -578,6 +619,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №48</title>
+			<description>Загадывает Анна</description>
 			<enclosure length="11647275" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20048.m4a" />
 			<guid isPermaLink="false">УП48</guid>
 			<itunes:duration>470</itunes:duration>
@@ -588,6 +630,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №49</title>
+			<description>Загадывает Кирилл</description>
 			<enclosure length="22518700" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20049.m4a" />
 			<guid isPermaLink="false">УП49</guid>
 			<itunes:duration>912</itunes:duration>
@@ -598,6 +641,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №50</title>
+			<description>Загадывает Анна</description>
 			<enclosure length="25188490" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20050.m4a" />
 			<guid isPermaLink="false">УП50</guid>
 			<itunes:duration>1019</itunes:duration>
@@ -608,6 +652,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №51</title>
+			<description>Загадывает Кирилл</description>
 			<enclosure length="12264672" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20051.m4a" />
 			<guid isPermaLink="false">УП51</guid>
 			<itunes:duration>495</itunes:duration>
@@ -618,6 +663,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №52</title>
+			<description>Загадывает Анна</description>
 			<enclosure length="23933486" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20052.m4a" />
 			<guid isPermaLink="false">УП52</guid>
 			<itunes:duration>969</itunes:duration>
@@ -628,6 +674,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №53</title>
+			<description>Загадывает Кирилл</description>
 			<enclosure length="24537911" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20053.m4a" />
 			<guid isPermaLink="false">УП53</guid>
 			<itunes:duration>996</itunes:duration>
@@ -638,6 +685,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №54</title>
+			<description>Загадывает Анна</description>
 			<enclosure length="45301326" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20054.m4a" />
 			<guid isPermaLink="false">УП54</guid>
 			<itunes:duration>1843</itunes:duration>
@@ -648,6 +696,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №55</title>
+			<description>Загадывает Кирилл</description>
 			<enclosure length="5664190" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20055.m4a" />
 			<guid isPermaLink="false">УП55</guid>
 			<itunes:duration>226</itunes:duration>
@@ -658,6 +707,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №56</title>
+			<description>Загадывает Анна</description>
 			<enclosure length="23846681" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20056.m4a" />
 			<guid isPermaLink="false">УП56</guid>
 			<itunes:duration>964</itunes:duration>
@@ -668,6 +718,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №57</title>
+			<description>Загадывает Кирилл</description>
 			<enclosure length="26004249" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20057.m4a" />
 			<guid isPermaLink="false">УП57</guid>
 			<itunes:duration>1057</itunes:duration>
@@ -678,6 +729,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №58</title>
+			<description>Загадывает Анна</description>
 			<enclosure length="19840269" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20058.m4a" />
 			<guid isPermaLink="false">УП58</guid>
 			<itunes:duration>805</itunes:duration>
@@ -688,6 +740,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №59</title>
+			<description>Загадывает Кирилл</description>
 			<enclosure length="14349861" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20059.m4a" />
 			<guid isPermaLink="false">УП59</guid>
 			<itunes:duration>581</itunes:duration>
@@ -698,6 +751,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №60</title>
+			<description>Загадывает Кирилл, по-английски. This episode is in English</description>
 			<enclosure length="23841763" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20060.m4a" />
 			<guid isPermaLink="false">УП60</guid>
 			<itunes:duration>969</itunes:duration>
@@ -708,6 +762,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №61</title>
+			<description>Загадывает Анна</description>
 			<enclosure length="22930411" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20061.m4a" />
 			<guid isPermaLink="false">УП61</guid>
 			<itunes:duration>932</itunes:duration>
@@ -718,6 +773,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №62</title>
+			<description>Загадывает Кирилл</description>
 			<enclosure length="14243573" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20062.m4a" />
 			<guid isPermaLink="false">УП62</guid>
 			<itunes:duration>577</itunes:duration>
@@ -728,6 +784,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 		</item>
 		<item>
 			<title>Угадай персонажа №63</title>
+			<description>Загадывает Анна</description>
 			<enclosure length="23591224" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20063.m4a" />
 			<guid isPermaLink="false">УП63</guid>
 			<itunes:duration>959</itunes:duration>
