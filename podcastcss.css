@@ -190,6 +190,12 @@ footer {
     border-radius: 3em;
 }
 
+.youtube{
+    aspect-ratio: 1 / 1;
+    width: 100%;
+    max-width: 36em;
+}
+
 header{
     border-bottom: 0.25em solid black;
 }

@@ -222,7 +222,13 @@
 								<a href="https://www.podchaser.com/podcasts/ugadai-personaza-6269363">PodChaser</a>
 							</p>
 						</li>
+						<li>
+							<p>
+								<a href="https://www.youtube.com/playlist?list=PLYY7fey0PJeVi212t_OzIMGhCgYGynilX">YouTube</a>
+							</p>
+						</li>
 					</ul>
+					<iframe class="youtube" src="https://www.youtube.com/embed/videoseries?si=UBRLGrg7-B6SXsye&amp;list=PLYY7fey0PJeVi212t_OzIMGhCgYGynilX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; clipboard-write; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""/>
 				</footer>
 			</body>
 		</html>
