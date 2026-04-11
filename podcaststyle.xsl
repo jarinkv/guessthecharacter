@@ -7,6 +7,7 @@
 				<meta charset="utf-8"/>
 				<title>Угадай персонажа! (подкаст)</title>
 				<link rel="alternate" type="application/rss+xml" title="Угадай персонажа!" href="https://jarinkv.github.io/guessthecharacter/podcastfeed.xml"/>
+				<link rel="icon" href="favicon.svg" />
 				<meta name="viewport" content="width=device-width" />
 				<link rel="stylesheet" type="text/css" href="podcastcss.css"/>
 			</head>
