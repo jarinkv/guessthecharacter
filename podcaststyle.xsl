@@ -228,7 +228,6 @@
 							</p>
 						</li>
 					</ul>
-					<iframe class="youtube" src="https://www.youtube.com/embed/videoseries?si=UBRLGrg7-B6SXsye&amp;list=PLYY7fey0PJeVi212t_OzIMGhCgYGynilX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; clipboard-write; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""/>
 				</footer>
 			</body>
 		</html>
