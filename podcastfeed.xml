@@ -836,7 +836,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<link>https://t.me/literaturna/1066</link>
 			<pubDate>Wed, 17 Jun 2026 21:00:00 +0300</pubDate>
 		</item>
- 		<!--<item>
+ 		<item>
 			<title>Угадай персонажа №68</title>
 			<description>Загадывает Анна</description>
 			<enclosure length="17679571" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20068.m4a" />
@@ -846,6 +846,6 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<itunes:season>1</itunes:season>
 			<link>https://t.me/literaturna/1066</link>
 			<pubDate>Thu, 18 Jun 2026 21:00:00 +0300</pubDate>
-		</item>-->
+		</item>
  	</channel>
 </rss>
