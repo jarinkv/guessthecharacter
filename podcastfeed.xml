@@ -847,5 +847,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 			<link>https://t.me/literaturna/1080</link>
 			<pubDate>Thu, 18 Jun 2026 21:00:00 +0300</pubDate>
 		</item>
+ 		<item>
+			<title>Угадай персонажа №69</title>
+			<description>Загадывает Кирилл</description>
+			<enclosure length="29267070" type="audio/m4a" url="https://jarinkv.github.io/guessthecharacter/Угадай%20персонажа%20069.m4a" />
+			<guid isPermaLink="false">УП69</guid>
+			<itunes:duration>902</itunes:duration>
+			<itunes:episode>69</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<link>https://t.me/literaturna/1097</link>
+			<pubDate>Sat, 31 Oct 2026 21:00:00 +0300</pubDate>
+		</item>
  	</channel>
 </rss>
